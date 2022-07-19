@@ -1,0 +1,35 @@
+.left {
+    background-color: #b7e1ea;
+    width: 10%;
+    height: 595px;
+    float: left;
+}
+.middle 
+{
+    float: left;
+    width: 75%;
+}
+.right {
+    background-color: #b7e1ea;
+    width: 15%;
+    height: 595px;
+    float: right;
+}
+.one {
+    padding-top: 100px;
+}
+.two {
+    padding-top: 50px;
+}
+.three {
+    padding-top: 50px;
+}
+.four {
+    padding-top: 50px;
+}
+.five {
+    padding-top: 50px;
+}
+.six {
+    padding-top: 25px;
+}

@@ -1,0 +1,69 @@
+.left {
+    background-color: #b7e1ea;
+    width: 10%;
+    height: 595px;
+    float: left;
+}
+.middle 
+{
+    float: left;
+    width: 75%;
+}
+.rects {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.rect1 {
+    background-color: #b7e1ea;
+    height: 40px;
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.rect2 {
+    background-color:  #b7e1ea;
+    margin-top: 20px;
+    height: 400px;
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rect3 {
+    background-color: #b7e1ea ;
+    margin-top: 20px;
+    height: 40px;
+    font-family: 'Cookie', cursive;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right {
+    background-color: #b7e1ea;
+    width: 15%;
+    height: 595px;
+    float: right;
+}
+.one {
+    padding-top: 100px;
+}
+.two {
+    padding-top: 50px;
+}
+.three {
+    padding-top: 50px;
+}
+.four {
+    padding-top: 50px;
+}
+.five {
+    padding-top: 50px;
+}
+.six {
+    padding-top: 25px;
+}

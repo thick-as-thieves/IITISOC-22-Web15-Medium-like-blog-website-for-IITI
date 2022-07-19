@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+}
+p {
+    font-style: oblique;
+    text-align: center;
+
+}
+.text{
+    font-size: 30px;
+    margin-top: 200px;
+    text-decoration: underline;
+}
+.texts {
+   
+    text-decoration-color: black;
+    font-size: 30px;
+    padding-top: 100px;
+    word-spacing: 5px;
+}
+.first {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.second {
+}
+.third {
+    padding-left: 100px;
+}
