@@ -1,0 +1,50 @@
+.whole {
+    background-color: #b7e1ea;
+    width: 10%;
+    height: 600px;
+    float: left;
+}
+.total 
+{
+    float: left;
+    width: 75%;
+}
+.third {
+    background-color: #b7e1ea;
+    width: 15%;
+    height: 600px;
+    float: right;
+}
+.one {
+    padding-top: 120px;
+}
+.two {
+    padding-top: 50px;
+}
+.three {
+    padding-top: 50px;
+}
+.four {
+    padding-top: 50px;
+}
+.five {
+    padding-top: 50px;
+}
+.stories {
+    margin-left: 100px;
+    display: flex;
+}
+.niv {
+  width: 900px;
+  padding-left: 15px;
+}
+
+.nivi {
+padding-top: 20px;
+}
+.six {
+    padding-top: 25px;
+}
+.author {
+    padding-top: 50px;
+}
